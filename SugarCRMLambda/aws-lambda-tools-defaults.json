@@ -17,5 +17,5 @@
     "function-name"        : "SugarCRMLambda",
     "function-role"        : "arn:aws:iam::479835525416:role/lambda_exec_SugarCRMLookup",
     "tracing-mode"         : "PassThrough",
-    "environment-variables" : "\"SugarURL\"=\"https://versalift.sugarondemand.com/\";\"SugarUser\"=\"TimeMfgAdmin\";\"SugarPassword\"=\"PasswordAdmin19\""
+    "environment-variables" : "\"SugarURL\"=\"https://<SUGAR ORGANISATION>.sugarondemand.com/\";\"SugarUser\"=\"<SUGAR USER>\";\"SugarPassword\"=\"<SUGAR PASSWORD>\""
 }
