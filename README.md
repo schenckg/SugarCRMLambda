@@ -13,6 +13,7 @@ This Amazon doc page describes the steps you'll need to take to use this code fr
 https://docs.aws.amazon.com/connect/latest/adminguide/connect-lambda-functions.html
 
 The function expects input in JSON format as shown below.  When testing, the only field which must be set is the customer's phone number which is used to search in the Sugar CRM database, i.e., Details.ContactData.CustomerEndpoint.Address (in the example below we would lookup phone number "+1234567890"):
+
 {
     "Details": {
         "ContactData": {
