@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SugarCRMLibrary", "SugarCRMLibrary\SugarCRMLibrary.csproj", "{E29651AF-B8B3-44AB-A64D-E9BC7C7CB741}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SugarCRMLambda", "SugarCRMLambda\SugarCRMLambda.csproj", "{85210681-A0C0-470A-BED7-4011693F9DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E29651AF-B8B3-44AB-A64D-E9BC7C7CB741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29651AF-B8B3-44AB-A64D-E9BC7C7CB741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29651AF-B8B3-44AB-A64D-E9BC7C7CB741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29651AF-B8B3-44AB-A64D-E9BC7C7CB741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85210681-A0C0-470A-BED7-4011693F9DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85210681-A0C0-470A-BED7-4011693F9DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85210681-A0C0-470A-BED7-4011693F9DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85210681-A0C0-470A-BED7-4011693F9DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC7726C7-DC00-43C0-A113-2C5BC4244B01}
+	EndGlobalSection
+EndGlobal
